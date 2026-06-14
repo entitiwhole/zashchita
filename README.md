@@ -1,4 +1,4 @@
-# SafeLife — Методики защиты жизни
+# Защита жизни — Методики защиты жизни
 
 Статический сайт-справочник по кибер-, социальным и бытовым угрозам.
 
@@ -13,4 +13,6 @@ npm run dev
 
 Сайт публикуется на GitHub Pages при push в `main`.
 
-**Ссылка:** https://entitiwhole.github.io/safelife/
+**Ссылка:** https://entitiwhole.github.io/zashchita/
+
+> Репозиторий на GitHub должен называться `zashchita` (не `safelife` — иначе Kaspersky может перенаправлять на чужой safelife.com).
